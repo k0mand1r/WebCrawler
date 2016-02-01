@@ -1,2 +1,4 @@
 # WebCrawler
-Python projects
+
+Notes:
+- Urllib2 generates errors opening certain URLs.
